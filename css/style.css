@@ -1,0 +1,19 @@
+.kartuli-absoluturi {
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.kartuli-relatiuri {
+	font-family: 'ALK Life';
+	font-weight: 300;
+}
+
+.latinuri-absoluturi {
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 5px;
+	text-indent: 30px;
+	line-height: 30px;
+	text-transform: capitalize;
+	font-style: italic;
+}
+.latinuri-relatiuri {
+	 font-family: 'Akaya Telivigala';
+}
